@@ -1,6 +1,6 @@
 # Mobile App Development
-
-### Instructor: Steve Gilland
+> ### Instructor: Steve Gilland
+> ### Email: mgilland@astate.edu
 
 This is a quick repository for the A-State Mobile Application Development class. Use the folders above to view further directories.
 
