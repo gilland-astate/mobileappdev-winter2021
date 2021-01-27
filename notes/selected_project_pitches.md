@@ -1,5 +1,8 @@
 # Selected Project Elevator Pitches
 
+## Signup Form
+https://forms.gle/6ypUN98evYxbxGNR6
+
 ## American Sign Language Learning App
 This application will follow in the footsteps of Duolingo and Babbel, but in a new direction. These previously mentioned applications are focused on the written word however this application will focus on the visual. This application will teach our users how to use American Sign Language. We hope to do this in a hands-on straightforward approach using videos to teach the words as well as detailed charts to perfect the signs. The difficulty of the signs will increase over time and the user will be tested on their comprehension of previous words as well as new words mixed in. Tests will be delivered on a word by word basis as well as in short story and long story form where the user will also be judged on their comprehension of the given segment of signs.
 
