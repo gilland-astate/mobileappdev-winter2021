@@ -50,10 +50,32 @@ Each student will present their topic with a slide deck that will go over the ba
 * What Are Activities - Quick rundown on what they are and what we need them for.
 * Explain this image in detail and why this matters:
 ![Activity Lifecycle](https://developer.android.com/guide/components/images/activity_lifecycle.png)
+* Explain in short how multi-window affects the activity lifecycle.
 
 ### Activity: Tasks, Notifications, & Back Stack
-
+* Explain what the Back Stack is using a relevant example and how it relates to app traversal.
+* Explain how the Back Stack is used to swap from activity to activity and how this relates to the Activity Lifecycle explained previously.
+* What are tasks, and how do they relate to the Back Stack?
+* How are tasks and thus the stack managed? Give examples and code as well as a quick walkthrough if time permits.
+* Explain how the manifest file affects the activity/task.
+* Quick overview on how tasks are launched.
 
 ### Services
 ### Broadcast Receivers
 ### Content Providers
+### Intents
+### Intent v2
+### Views
+### View Groups
+### Specific ViewGroup Types: RecyclerView, ViewPager
+### Custom View Types: Canvas, Bitmap, ect. (Built-ins)
+### Working with UI Resources
+### Working with UI Resources v2
+### Fragments
+### Working with Sharing Resources & File System I/O
+### Build Options (Debug/Release) and Tips & Tricks
+### Unit Testing
+### Threading: Threads & Co-Routines
+### Debugging & Profiling
+### Android Jetpack Overview
+### Jetpack Topic (I will choose this later)
