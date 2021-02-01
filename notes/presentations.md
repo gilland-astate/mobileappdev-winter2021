@@ -1,12 +1,10 @@
 # Presentation Links
 
-### Presentation Signup Form
+### Presentation Signup Form & Q/A
 https://docs.google.com/spreadsheets/d/1H0HO2xX_xkNHPZv7Ealy1FPWbQwKsvN2sidp6juUjJI/edit?usp=sharing
 
 ### Presentation Rubric
 https://github.com/gilland-astate/mobileappdev-winter2021/blob/main/resources/presentation_rubric.pdf
-
-### Presentation Evaluation Submission
 
 
 # Presentation Expectations
@@ -15,6 +13,8 @@ Each student will present their topic with a slide deck that will go over the ba
 # Presentation Description
 
 ### Selecting your Programming Language: Java vs Kotlin
+* Slides 
+    * https://github.com/gilland-astate/mobileappdev-winter2021/blob/main/resources/KotlinVsJava.pptx
 * Pros & Cons of Each Language
 * Short overview of how Kotlin changes Java for the better. (Tell me what each of these mean and how they help me as a developer)
     * "auto" style inference
