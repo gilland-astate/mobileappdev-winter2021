@@ -61,17 +61,102 @@ Each student will present their topic with a slide deck that will go over the ba
 * Quick overview on how tasks are launched.
 
 ### Services
+* Different types of services with detailed explanations and examples of each.
+* Service vs thread
+* Service Lifecycle
+* How services are declared
+* Code examples + Walthrough of code explanation
+* Explain AIDL and how it can be used to help you communicate with services.
+
 ### Broadcast Receivers
+* Explain the publish-subscribe pattern using psuedocode & examples
+* Overview of what broadcast receivers accomplish
+* Explain how broadcast receivers are declared
+* Code examples + Walthrough of code explanation
+* How broadcasts are sent with code example
+
 ### Content Providers
+* What Content Providers are.
+* Advantages of using content providers versus hard coding
+* Overview of the API
+* Code Overview of creating/using content providers
+
 ### Intents
+* Overview of Intents
+    * How they are used
+    * What they are for
+* Difference between Implicit and Explicit
+* Intent Filters and what they do
+* Mainly this should be a basic high-level view of intents
+
 ### Intent v2
+* Intent Implementation
+* Overview of Intent Actions
+    * Activity Actions
+    * Broadcast Actions
+* This should primarily be a deep dive into intents. We have already received and overview, give me more in-depth look at using intents in code and examples.
+
 ### Views
+* Overview of View
+* Element properties overviews
+    * Position
+    * Padding
+    * Margins
+    * Etc.
+* Properly laying out elements
+* Simple Views
+    * TextView
+    * ImageView
+    * Button
+    * EditText
+
 ### View Groups
-### Specific ViewGroup Types: RecyclerView, ViewPager
+* Overview of ViewGroups
+* Built-in ViewGroups and how to use them
+    * LinearLayout
+    * RelativeLayout
+    * FrameLayout
+    * ConstrainLayout
+
 ### Custom View Types: Canvas, Bitmap, ect. (Built-ins)
+* Using advanced view types
+    * Canvas
+    * Bitmap
+    * Paint
+    * Other built-in that are noteworthy
+* Creating custom View
+
+### Specific ViewGroup Types: RecyclerView, ViewPager
+* Using advanced ViewGroups
+    * RecyclerView
+    * ViewPager
+    * ScrollView
+    * CoordinatorLayout
+    * Spinner
+* Creating custom ViewGroup
+
 ### Working with UI Resources
+* Overview of the Android Resource Structure
+* How to use UI Resources in your App
+* Creating icons and drawables xmls
+* Layouts
+* Strings
+
 ### Working with UI Resources v2
+* Advanced UI Resource overview
+* Localization
+* Different layouts for different devices
+* Color
+* Drawables
+* Anims
+* Menus
+
 ### Fragments
+* Overview
+* Benefits of Fragments
+* Fragment vs Activity
+* more...
+
 ### Working with Sharing Resources & File System I/O
 ### Build Options (Debug/Release) and Tips & Tricks
 ### Unit Testing
